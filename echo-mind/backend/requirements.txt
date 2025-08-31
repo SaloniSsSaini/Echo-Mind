@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+assemblyai
+openai
+git+https://github.com/murf-ai/murf-python-sdk.git
+requests
